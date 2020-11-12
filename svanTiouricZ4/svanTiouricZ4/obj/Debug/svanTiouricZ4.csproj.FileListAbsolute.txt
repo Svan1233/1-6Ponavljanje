@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\bin\Debug\svanTiouricZ4.exe.config
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\bin\Debug\svanTiouricZ4.exe
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\bin\Debug\svanTiouricZ4.pdb
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\obj\Debug\svanTiouricZ4.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\obj\Debug\svanTiouricZ4.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\obj\Debug\svanTiouricZ4.exe
+C:\Users\Korisnik\source\repos\svanTiouricZ4\svanTiouricZ4\obj\Debug\svanTiouricZ4.pdb
